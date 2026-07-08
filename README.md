@@ -12,7 +12,7 @@ The project was developed and validated entirely through simulation using Proteu
 ---
 
 # Images
-simulation video:
+simulation video:[https://github.com/neeraj-madhavarapu/Autonomous-Victim-Detection-System-for-Rescue-Missions-/tree/main/Image%20%26%20video]
 
 ---
 
